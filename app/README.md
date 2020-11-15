@@ -6,6 +6,9 @@ Setup:
 1. Make sure you have a valid Python 3 install with pip package manager!
 2. Install the dependencies of the script with `pip install -r requirements.txt`
 
+## LyricSpammer
+1. `python3 main.py`
+
 ## AutoText
 
 This is a simple script which takes in a text file argument and reads the file line-by-line, sending it through the MacOS Messages app to a friend who is also on Apple Messages. Note that it will only work if you have texted the number previously on Messages.
