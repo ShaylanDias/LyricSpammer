@@ -1,0 +1,2 @@
+FLASK_APP=tiktokbikbok.py
+FLASK_ENV=production
